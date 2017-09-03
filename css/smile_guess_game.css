@@ -1,0 +1,32 @@
+img
+{
+    position: absolute;
+}
+
+.jumbotron
+{
+    margin: 0 auto;
+    padding: 70px 30px 70px 30px;
+
+    color: white;
+    background: #7986cb;
+}
+
+#leftSide
+{
+    position: absolute;
+
+    width: 500px;
+    height: 500px;
+}
+
+#rightSide
+{
+    position: absolute;
+    left: 500px;
+
+    width: 500px;
+    height: 500px;
+
+    border-left: 1px solid black;
+}
